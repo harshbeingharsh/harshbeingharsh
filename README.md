@@ -1,7 +1,6 @@
-  
-# Namaste !!   [RaisingFlagKutuGIF](https://github.com/user-attachments/assets/827702eb-5e1b-4244-9f03-07e89106da60)
+# Namaste !!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ![IndiaIndiaFlagGIF](https://github.com/user-attachments/assets/540c18a5-0026-4bb5-b443-a5189abf70b0)
 
-   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=harshbeingharsh&label=Profile%20Visits&color=blue&style=for-the-badge)
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -10,7 +9,6 @@
   - 🔭 I’m currently an Undergrad student at SRM
   - 🌱 I’m currently learning -backend,generative ai,cybersecurity
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
   
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
