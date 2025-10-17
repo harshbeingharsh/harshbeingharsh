@@ -4,9 +4,8 @@
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+  - 🔭 I’m currently an Undergrad student at SRM
+  - 🌱 I’m currently learning -backend,generative ai,cybersecurity
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: My name is an anagram of "I Play Data"
   
@@ -33,31 +32,6 @@
   [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+ 
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1615.00  ┤                                                                                               ╭╮
- 1605.75  ┤                                                                                         ╭─────╯│ ╭
- 1596.50  ┤                                                                                        ╭╯      ╰╮│
- 1587.25  ┤                                                                                     ╭╮╭╯        ╰╯
- 1578.00  ┤                                                                                  ╭╮╭╯╰╯
- 1568.75  ┤                          ╭╮                                                     ╭╯╰╯
- 1559.50  ┤                         ╭╯╰╮╭╮                                      ╭╮╭╮      ╭─╯
- 1550.25  ┤                     ╭╮╭─╯  ╰╯╰╮      ╭╮                         ╭╮╭─╯╰╯╰╮╭─╮ ╭╯
- 1541.00  ┤                   ╭─╯╰╯       ╰╮   ╭─╯╰╮            ╭──╮╭─╮    ╭╯╰╯     ╰╯ ╰─╯
- 1531.75  ┤                  ╭╯            ╰─╮╭╯   ╰─╮       ╭──╯  ╰╯ ╰─╮╭─╯
- 1522.50  ┤                 ╭╯               ╰╯      ╰╮     ╭╯          ╰╯
- 1513.25  ┤                ╭╯                         ╰╮   ╭╯
- 1504.00  ┼────╮          ╭╯                           ╰─╮╭╯
- 1494.75  ┤    ╰╮        ╭╯                              ╰╯
- 1485.50  ┤     ╰╮  ╭────╯
- 1476.25  ┤      ╰──╯
- 1467.00  ┤
 
-Chart last updated - Fri Oct 17 11:08:25 EDT 2025  
-  ```
-  
